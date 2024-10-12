@@ -36,3 +36,5 @@ Adicionar uma funcionalidade de "Adicionar ao Carrinho".
 Créditos
 
 Este projeto foi desenvolvido de forma independente como um exercício de front-end, utilizando HTML, CSS e JavaScript.
+
+![Resultado final do Projeto](https://github.com/million212/Landing-Page-Iphone/blob/main/iPhone.PNG)
